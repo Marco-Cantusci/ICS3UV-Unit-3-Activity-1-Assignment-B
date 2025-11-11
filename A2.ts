@@ -1,3 +1,10 @@
+/*
+ * @author Marco Cantusci
+ * @verion 1.0.0
+ * @date 2025-11-11
+ * @fileoverview Calculate the restaurant bill
+ */
+
 // store subtotal as 35.85
 const subtotal: number = 35.85
 
