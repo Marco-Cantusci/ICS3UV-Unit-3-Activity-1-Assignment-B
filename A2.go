@@ -46,7 +46,7 @@ func main() {
 
 	// display the tip amount
 	fmt.Println("Tip amount(%):", tipAmount)
-	
+
 	// display the total
 	fmt.Println("Total($):", total)
 
